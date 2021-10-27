@@ -7,6 +7,6 @@
   "homes": [
     {"id": 78, "address": "2 north street", "owner": "vib"},
     {"id": 18, "address": "33 under street", "owner": "brya"},
-    {"id": 23, "address": "1 flea street", "owner": "gee"}
+    {"id": 23, "address": "1 flea street"}
   ]
 }
