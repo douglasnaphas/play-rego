@@ -1,6 +1,6 @@
 package crossproduct
 
-# say that every animal likes every home
+# say that every animal likes every home with an owner
 opinions[pair] = opinion {
   animal := input.animals[_]
   home := input.homes[_]
@@ -8,3 +8,5 @@ opinions[pair] = opinion {
   pair := sprintf("%d - %d", [animal.id, home.id])
   opinion := sprintf("%s likes %s", [animal.name, home.address])
 }
+
+
