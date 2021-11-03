@@ -12,3 +12,6 @@ t3_in_s {
 t4_in_s {
   s["t4"]
 }
+t4_not_in_s {
+  not s["t4"]
+}
