@@ -8,5 +8,8 @@ a[b] = c {
 
 houses[home] = master {
   home := input.homes[_]
-  master := object.get(home, "owner", "the king")
+  x := object.get(home, "owner", null)
+  master := {"r": "s", "y": x}
 }
+
+z := { "a": "b"}
