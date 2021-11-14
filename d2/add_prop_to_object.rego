@@ -14,4 +14,4 @@ a1 := [
   {"a1k2":"a1v2", "class": "sub"}
 ]
 
-a2 := [ e | t := a1[_] ; e := object.union(t, {"a2k1": "a2v1"})]
+a2 := [ e | e := object.union(a1[_], {"a2k1": "a2v1"})]
