@@ -15,3 +15,4 @@ a1 := [
 ]
 
 a2 := [ e | e := object.union(a1[_], {"a2k1": "a2v1"})]
+a3 := object.union({"x": "y"}, {})
