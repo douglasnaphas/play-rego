@@ -4,10 +4,7 @@
     {"id": 312, "species": "cat", "name": "sorba"},
     {"id": 1144, "species": "bird", "name": "sim"},
     {"id": 2144, "species": "bird", "name": "slime"},
-    {"id": 333, "species": "bird", "name": "sulay"},
-    {"id": 10, "species": "horse", "name": "vahul"},
-    {"id": 110, "species": "horse", "name": "vamul"},
-    {"id": 2, "species": "horse", "name": "praw"}
+    {"id": 10, "species": "horse", "name": "vahul"}
   ],
   "homes": [
     {"id": 78, "address": "2 north street", "owner": "vib"},
