@@ -10,6 +10,7 @@ bad_animals[animal] {
 } {
   some a
   input.animals[a].species == "horse"
+  input.animals[a].name == "vamul"
   animal := input.animals[a]
 }
 
