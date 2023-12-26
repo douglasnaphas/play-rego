@@ -1,0 +1,10 @@
+name: Test policies
+on:
+  workflow_dispatch:
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+    steps:
+    - name: npm test
+      run: |
+        npm test
